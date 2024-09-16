@@ -4,7 +4,7 @@
 #include <WiFiAP.h>
 
 // https://github.com/espressif/arduino-esp32/blob/master/libraries/WiFi/examples/WiFiAccessPoint/WiFiAccessPoint.ino
-const char *ssid = "esp32_apppoint";	//!< SSID
+const char *ssid = "nikoniko_jikkendai";	//!< SSID
 const char *password = "yourPassword";	//!< パスワード
 
 WiFiServer server(1999);				//!< Wifiサーバー(port:1999)
